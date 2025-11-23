@@ -22,7 +22,7 @@ public class PlayerCombat : MonoBehaviour
     public int maxHp;
 
     public int CurrentHp { get; private set; }
-    public int Focus { get; set; }
+    public int Focus { get; set; } = 6;
     public Stance CurrentStance { get; private set; }
 
     public bool turnParrySuccess = true;    
@@ -36,7 +36,7 @@ public class PlayerCombat : MonoBehaviour
     private void Awake()
     {
         CurrentHp = maxHp;
-        CurrentStance = Stance.None;
+        CurrentStance = Stance.Flame;
     }
 
     private float GetParryDurationMultiplier()
@@ -264,11 +264,6 @@ public class PlayerCombat : MonoBehaviour
     public void ResetFocus()
     {
         Focus = 0;
-    }
-
-    public bool CanUseSpecial()
-    {
-        return Focus >= 6;
     }
 
     // ==========================

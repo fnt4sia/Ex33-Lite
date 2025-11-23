@@ -234,12 +234,12 @@ TextureImporter:
       name: WindCombatEffect_0
       rect:
         serializedVersion: 2
-        x: 428
-        y: 55
-        width: 25
-        height: 15
+        x: 0
+        y: 0
+        width: 173
+        height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -256,12 +256,12 @@ TextureImporter:
       name: WindCombatEffect_1
       rect:
         serializedVersion: 2
-        x: 550
-        y: 70
-        width: 9
-        height: 6
+        x: 173
+        y: 0
+        width: 173
+        height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -278,12 +278,12 @@ TextureImporter:
       name: WindCombatEffect_2
       rect:
         serializedVersion: 2
-        x: 584
-        y: 55
-        width: 69
-        height: 31
+        x: 346
+        y: 0
+        width: 173
+        height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -300,12 +300,12 @@ TextureImporter:
       name: WindCombatEffect_3
       rect:
         serializedVersion: 2
-        x: 667
-        y: 54
-        width: 13
-        height: 16
+        x: 519
+        y: 0
+        width: 173
+        height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -322,12 +322,12 @@ TextureImporter:
       name: WindCombatEffect_4
       rect:
         serializedVersion: 2
-        x: 750
-        y: 63
-        width: 46
-        height: 15
+        x: 692
+        y: 0
+        width: 173
+        height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -344,12 +344,12 @@ TextureImporter:
       name: WindCombatEffect_5
       rect:
         serializedVersion: 2
-        x: 910
-        y: 7
-        width: 83
-        height: 70
+        x: 865
+        y: 0
+        width: 173
+        height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -362,671 +362,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_6
-      rect:
-        serializedVersion: 2
-        x: 220
-        y: 19
-        width: 80
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 86f6e4480b4bfc420800000000000000
-      internalID: 2652537375771488104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_7
-      rect:
-        serializedVersion: 2
-        x: 375
-        y: 7
-        width: 54
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 19aabaa94f4394b90800000000000000
-      internalID: -7257211099359237487
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_8
-      rect:
-        serializedVersion: 2
-        x: 401
-        y: 62
-        width: 15
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 42f8a2ce0c3763e90800000000000000
-      internalID: -7046317294541435100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_9
-      rect:
-        serializedVersion: 2
-        x: 465
-        y: 22
-        width: 26
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 695b55f1a80eaf5f0800000000000000
-      internalID: -722017906403723882
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_10
-      rect:
-        serializedVersion: 2
-        x: 529
-        y: 28
-        width: 16
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 21c495eae397604a0800000000000000
-      internalID: -6627476491509085166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_11
-      rect:
-        serializedVersion: 2
-        x: 593
-        y: 53
-        width: 10
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2c66f514f19b00a00800000000000000
-      internalID: 720779484271175362
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_12
-      rect:
-        serializedVersion: 2
-        x: 851
-        y: 56
-        width: 10
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9f85b81edf7e35290800000000000000
-      internalID: -7902717843508340487
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_13
-      rect:
-        serializedVersion: 2
-        x: 417
-        y: 42
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1dd62e28feb1d49d0800000000000000
-      internalID: -2788541878765457967
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_14
-      rect:
-        serializedVersion: 2
-        x: 434
-        y: 43
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 844546190603afb90800000000000000
-      internalID: -7207395062338792376
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_15
-      rect:
-        serializedVersion: 2
-        x: 559
-        y: 33
-        width: 25
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 81016ea65ce8db260800000000000000
-      internalID: 7114999964868415512
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_16
-      rect:
-        serializedVersion: 2
-        x: 621
-        y: 46
-        width: 6
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1360555296adecdb0800000000000000
-      internalID: -4769634810206026191
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_17
-      rect:
-        serializedVersion: 2
-        x: 658
-        y: 48
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8036c73399cd837e0800000000000000
-      internalID: -1785434701700504824
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_18
-      rect:
-        serializedVersion: 2
-        x: 799
-        y: 18
-        width: 25
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 81f84546f94cc6500800000000000000
-      internalID: 390903456536497944
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_19
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 28
-        width: 31
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8659947391dba54b0800000000000000
-      internalID: -5450836482979162776
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_20
-      rect:
-        serializedVersion: 2
-        x: 437
-        y: 34
-        width: 15
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 021555510c3de4710800000000000000
-      internalID: 1679512533000868128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_21
-      rect:
-        serializedVersion: 2
-        x: 459
-        y: 41
-        width: 16
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 39f3165995ab5df00800000000000000
-      internalID: 1141022974529322899
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_22
-      rect:
-        serializedVersion: 2
-        x: 675
-        y: 22
-        width: 49
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 45964c29a3be28db0800000000000000
-      internalID: -4791008416765810348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_23
-      rect:
-        serializedVersion: 2
-        x: 423
-        y: 32
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 46ba0106cc0508c30800000000000000
-      internalID: 4359573278009895780
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_24
-      rect:
-        serializedVersion: 2
-        x: 591
-        y: 16
-        width: 9
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b70bd2559e735d2f0800000000000000
-      internalID: -948790671195656069
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_25
-      rect:
-        serializedVersion: 2
-        x: 636
-        y: 30
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: caaf7f5fd15cb2400800000000000000
-      internalID: 300550532621662892
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_26
-      rect:
-        serializedVersion: 2
-        x: 736
-        y: 25
-        width: 6
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 59642c2345aae8600800000000000000
-      internalID: 472502289526048405
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_27
-      rect:
-        serializedVersion: 2
-        x: 428
-        y: 20
-        width: 11
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5a59907c6b3ccdf10800000000000000
-      internalID: 2295925099842868645
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_28
-      rect:
-        serializedVersion: 2
-        x: 435
-        y: 25
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: baa4c030b6f4683d0800000000000000
-      internalID: -3204786763796297045
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_29
-      rect:
-        serializedVersion: 2
-        x: 432
-        y: 7
-        width: 30
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a2e50cc33ec18d520800000000000000
-      internalID: 2726961336675229226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_30
-      rect:
-        serializedVersion: 2
-        x: 466
-        y: 13
-        width: 11
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 489503a6abbc4c910800000000000000
-      internalID: 1856832947889396100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_31
-      rect:
-        serializedVersion: 2
-        x: 552
-        y: 4
-        width: 25
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8a0afbea022b48a80800000000000000
-      internalID: -8465445546109198168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_32
-      rect:
-        serializedVersion: 2
-        x: 605
-        y: 0
-        width: 24
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be0b0fdfd44b945a0800000000000000
-      internalID: -6536495137085673237
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_33
-      rect:
-        serializedVersion: 2
-        x: 630
-        y: 2
-        width: 18
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 653024f1f359434d0800000000000000
-      internalID: -3155733340539976874
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_34
-      rect:
-        serializedVersion: 2
-        x: 658
-        y: 11
-        width: 9
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 72340e63d3d5d5ec0800000000000000
-      internalID: -3576600011567250649
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WindCombatEffect_35
-      rect:
-        serializedVersion: 2
-        x: 767
-        y: 8
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f26d3ccdbcfbfd5f0800000000000000
-      internalID: -729653732307642833
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0358bc3beca0dea45a4946e971a255e7
     internalID: 0
     vertices: []
     indices: 
@@ -1034,44 +374,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":1.0},"gridSpriteSize":{"x":173.0,"y":91.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       WindCombatEffect_0: 7439209863635273481
       WindCombatEffect_1: -4879219748803358728
-      WindCombatEffect_10: -6627476491509085166
-      WindCombatEffect_11: 720779484271175362
-      WindCombatEffect_12: -7902717843508340487
-      WindCombatEffect_13: -2788541878765457967
-      WindCombatEffect_14: -7207395062338792376
-      WindCombatEffect_15: 7114999964868415512
-      WindCombatEffect_16: -4769634810206026191
-      WindCombatEffect_17: -1785434701700504824
-      WindCombatEffect_18: 390903456536497944
-      WindCombatEffect_19: -5450836482979162776
       WindCombatEffect_2: 2923753977615054386
-      WindCombatEffect_20: 1679512533000868128
-      WindCombatEffect_21: 1141022974529322899
-      WindCombatEffect_22: -4791008416765810348
-      WindCombatEffect_23: 4359573278009895780
-      WindCombatEffect_24: -948790671195656069
-      WindCombatEffect_25: 300550532621662892
-      WindCombatEffect_26: 472502289526048405
-      WindCombatEffect_27: 2295925099842868645
-      WindCombatEffect_28: -3204786763796297045
-      WindCombatEffect_29: 2726961336675229226
       WindCombatEffect_3: 1857094008257149038
-      WindCombatEffect_30: 1856832947889396100
-      WindCombatEffect_31: -8465445546109198168
-      WindCombatEffect_32: -6536495137085673237
-      WindCombatEffect_33: -3155733340539976874
-      WindCombatEffect_34: -3576600011567250649
-      WindCombatEffect_35: -729653732307642833
       WindCombatEffect_4: 3237385903046000735
       WindCombatEffect_5: 5832159971902928682
-      WindCombatEffect_6: 2652537375771488104
-      WindCombatEffect_7: -7257211099359237487
-      WindCombatEffect_8: -7046317294541435100
-      WindCombatEffect_9: -722017906403723882
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

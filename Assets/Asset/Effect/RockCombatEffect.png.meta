@@ -198,12 +198,12 @@ TextureImporter:
       name: RockCombatEffect_0
       rect:
         serializedVersion: 2
-        x: 61
-        y: 29
-        width: 14
-        height: 9
+        x: 0
+        y: 0
+        width: 173
+        height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -220,12 +220,12 @@ TextureImporter:
       name: RockCombatEffect_1
       rect:
         serializedVersion: 2
-        x: 71
-        y: 25
-        width: 32
-        height: 21
+        x: 173
+        y: 0
+        width: 173
+        height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -242,12 +242,12 @@ TextureImporter:
       name: RockCombatEffect_2
       rect:
         serializedVersion: 2
-        x: 220
-        y: 19
-        width: 80
-        height: 43
+        x: 346
+        y: 0
+        width: 173
+        height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -264,12 +264,12 @@ TextureImporter:
       name: RockCombatEffect_3
       rect:
         serializedVersion: 2
-        x: 375
-        y: 7
-        width: 54
-        height: 56
+        x: 519
+        y: 0
+        width: 173
+        height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -282,451 +282,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_4
-      rect:
-        serializedVersion: 2
-        x: 393
-        y: 46
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b97792cae29cd0b20800000000000000
-      internalID: 3102356920622217115
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_5
-      rect:
-        serializedVersion: 2
-        x: 401
-        y: 62
-        width: 52
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ea6e4bf1610045e10800000000000000
-      internalID: 2185371814202762926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_6
-      rect:
-        serializedVersion: 2
-        x: 405
-        y: 31
-        width: 11
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 13d2f3c7732f412a0800000000000000
-      internalID: -6767518019909374671
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_7
-      rect:
-        serializedVersion: 2
-        x: 416
-        y: 39
-        width: 16
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8fa3109d700f475f0800000000000000
-      internalID: -759718520622597384
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_8
-      rect:
-        serializedVersion: 2
-        x: 420
-        y: 27
-        width: 18
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7c30996bff727c810800000000000000
-      internalID: 1785439756509316039
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_9
-      rect:
-        serializedVersion: 2
-        x: 436
-        y: 38
-        width: 13
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1b823fa7baa3dcd20800000000000000
-      internalID: 3300358610109016241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_10
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 32
-        width: 12
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 23d9b751429579cd0800000000000000
-      internalID: -2551472652367979214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_11
-      rect:
-        serializedVersion: 2
-        x: 453
-        y: 53
-        width: 20
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 35367f7b6a541c230800000000000000
-      internalID: 3657280954754884435
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_12
-      rect:
-        serializedVersion: 2
-        x: 477
-        y: 22
-        width: 14
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 35aaf38aa2353f530800000000000000
-      internalID: 3887542346027346515
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_13
-      rect:
-        serializedVersion: 2
-        x: 529
-        y: 28
-        width: 16
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 170364ce73b0c8140800000000000000
-      internalID: 4723162444019937393
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_14
-      rect:
-        serializedVersion: 2
-        x: 550
-        y: 32
-        width: 103
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4c993d423fa50f2d0800000000000000
-      internalID: -3246995330992727612
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_15
-      rect:
-        serializedVersion: 2
-        x: 595
-        y: 29
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e2c9eff817ed1b5a0800000000000000
-      internalID: -6507175407245157330
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_16
-      rect:
-        serializedVersion: 2
-        x: 602
-        y: 29
-        width: 9
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0c3a1406ddf4815f0800000000000000
-      internalID: -785790322754870336
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_17
-      rect:
-        serializedVersion: 2
-        x: 667
-        y: 58
-        width: 13
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 525b5f199a5cb9440800000000000000
-      internalID: 4943762348058195237
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_18
-      rect:
-        serializedVersion: 2
-        x: 675
-        y: 22
-        width: 12
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f9602755307673e30800000000000000
-      internalID: 4483165218086717087
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_19
-      rect:
-        serializedVersion: 2
-        x: 434
-        y: 7
-        width: 28
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 451ed8d4ed2331aa0800000000000000
-      internalID: -6191549132339027628
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_20
-      rect:
-        serializedVersion: 2
-        x: 466
-        y: 13
-        width: 11
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d89d634f09506b860800000000000000
-      internalID: 7545224345836509581
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_21
-      rect:
-        serializedVersion: 2
-        x: 552
-        y: 4
-        width: 25
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: feb66cf100e95d2c0800000000000000
-      internalID: -4407442936941876241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_22
-      rect:
-        serializedVersion: 2
-        x: 658
-        y: 11
-        width: 9
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2dd9cc046125737e0800000000000000
-      internalID: -1785868471699202606
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RockCombatEffect_23
-      rect:
-        serializedVersion: 2
-        x: 606
-        y: 0
-        width: 42
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97239d6f5d35f2420800000000000000
-      internalID: 2607394887705375353
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 875b697d2f54ef1489511471231db4e9
     internalID: 0
     vertices: []
     indices: 
@@ -734,32 +294,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":173.0,"y":91.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       RockCombatEffect_0: -1398019819560610663
       RockCombatEffect_1: -5522388409356629122
-      RockCombatEffect_10: -2551472652367979214
-      RockCombatEffect_11: 3657280954754884435
-      RockCombatEffect_12: 3887542346027346515
-      RockCombatEffect_13: 4723162444019937393
-      RockCombatEffect_14: -3246995330992727612
-      RockCombatEffect_15: -6507175407245157330
-      RockCombatEffect_16: -785790322754870336
-      RockCombatEffect_17: 4943762348058195237
-      RockCombatEffect_18: 4483165218086717087
-      RockCombatEffect_19: -6191549132339027628
       RockCombatEffect_2: 6121669807289640110
-      RockCombatEffect_20: 7545224345836509581
-      RockCombatEffect_21: -4407442936941876241
-      RockCombatEffect_22: -1785868471699202606
-      RockCombatEffect_23: 2607394887705375353
       RockCombatEffect_3: -3730144487322756730
-      RockCombatEffect_4: 3102356920622217115
-      RockCombatEffect_5: 2185371814202762926
-      RockCombatEffect_6: -6767518019909374671
-      RockCombatEffect_7: -759718520622597384
-      RockCombatEffect_8: 1785439756509316039
-      RockCombatEffect_9: 3300358610109016241
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

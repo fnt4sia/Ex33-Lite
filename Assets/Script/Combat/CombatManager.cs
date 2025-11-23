@@ -342,6 +342,9 @@ public class CombatManager : MonoBehaviour
                 UIManager.Instance.UpdatePlayerHP(player.CurrentHp, player.maxHp);
                 player.PlayHit();
                 player.turnParrySuccess = false;
+
+                player.ResetFocus();
+                UIManager.Instance.UpdatePlayerFocus(player.Focus);
             }
 
             yield return W(1f);

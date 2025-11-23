@@ -3566,7 +3566,7 @@ MonoBehaviour:
   baseEnemyParry: 0.1
   turnParrySuccess: 1
   animator: {fileID: 1431208895}
-  effectAnimator: {fileID: 0}
+  effectAnimator: {fileID: 1500020250}
   chancePattern1: 0.45
   chancePattern2: 0.45
   chancePattern3: 0.1
