@@ -170,13 +170,24 @@ public class CombatManager : MonoBehaviour
 
             bool enemyParried = Random.value < parryChance;
 
+            int damageCount = Mathf.RoundToInt(player.baseAttack);
+
+            if (chosenAttackType == PlayerAttackType.Enhance)
+                damageCount = Mathf.RoundToInt(player.baseAttack * 1.5f);
+            else if (chosenAttackType == PlayerAttackType.StoneSpecial)
+                damageCount = Mathf.RoundToInt(player.baseAttack * 2f);
+            else if (chosenAttackType == PlayerAttackType.FlameSpecial)
+                damageCount = Mathf.RoundToInt(player.baseAttack * 1.25f);
+            else if (chosenAttackType == PlayerAttackType.WindSpecial)
+                damageCount = Mathf.RoundToInt(player.baseAttack * 3f);
+
             player.PlayAttack(type, hit);
 
             if (enemyParried)
             {
                 if (player.CurrentStance == Stance.Flame)
                 {
-                    int chip = Mathf.RoundToInt(player.baseAttack * 0.3f);
+                    int chip = Mathf.RoundToInt(damageCount * 0.3f);
                     enemy.TakeDamage(chip);
                     UIManager.Instance.UpdateEnemyHP(enemy.currentHP, enemy.maxHP);
                     enemy.PlayPierced();
@@ -186,13 +197,21 @@ public class CombatManager : MonoBehaviour
                     enemy.PlayParried();
                 }
 
+                if (player.CurrentStance != Stance.Stone)
+                {
+                    int counter = player.CurrentStance == Stance.Flame ? Mathf.RoundToInt(enemy.baseAttack * 1.5f) : Mathf.RoundToInt(enemy.baseAttack * 0.75f);
+                    player.TakeDamage(counter);
+                    UIManager.Instance.UpdatePlayerHP(player.CurrentHp, player.maxHp);
+                    enemy.PlayCountered();
+                    player.PlayHit();
+                }
+
                 enemy.turnParrySuccess = false;
             } else
             {
-                int dmg = player.CalculateAttackDamage();
-                enemy.TakeDamage(dmg);
+                enemy.TakeDamage(damageCount);
 
-                if(chosenAction == PlayerAction.Attack)
+                if(chosenAction == PlayerAction.Attack && chosenAttackType == PlayerAttackType.Basic)
                 {
                     player.AddFocus();
                     UIManager.Instance.UpdatePlayerFocus(player.Focus);
@@ -206,17 +225,6 @@ public class CombatManager : MonoBehaviour
 
             enemy.PlayIdleForCurrentStance();
             player.PlayAnimationIdle();
-        }
-
-        if (enemy.turnParrySuccess && enemy.currentStance == Stance.Wind)
-        {
-            if (player.CurrentStance != Stance.Stone)
-            {
-                int counter = Mathf.RoundToInt(enemy.baseAttack * 1.2f);
-                player.TakeDamage(counter);
-                UIManager.Instance.UpdatePlayerHP(player.CurrentHp, player.maxHp);
-                player.PlayCountered();
-            }
         }
 
         if (chosenAction == PlayerAction.Special) StartCoroutine(enemy.PlaySpecialEffect(player.CurrentStance));
@@ -279,17 +287,6 @@ public class CombatManager : MonoBehaviour
 
         enemy.PlayIdleForCurrentStance();
 
-        if (player.turnParrySuccess && player.CurrentStance == Stance.Wind)
-        {
-            if (enemy.currentStance != Stance.Stone)
-            {
-                int counter = player.CalculateWindCounter((int)enemy.baseAttack);
-                enemy.TakeDamage(counter);
-                UIManager.Instance.UpdateEnemyHP(enemy.currentHP, enemy.maxHP);
-                enemy.PlayCountered();
-            }
-        }
-
         if (player.IsParrying)
             player.ResetParry();
 
@@ -333,6 +330,15 @@ public class CombatManager : MonoBehaviour
                 } else
                 {
                     player.PlaySuccessfulParry();
+                }
+
+                if (enemy.currentStance != Stance.Stone)
+                {
+                    int counter = enemy.currentStance == Stance.Flame ? Mathf.RoundToInt(enemy.baseAttack) * 1.5f : Mathf.RoundToInt(enemy.baseAttack * 0.75f);
+                    enemy.TakeDamage(counter);
+                    UIManager.Instance.UpdateEnemyHP(enemy.currentHP, enemy.maxHP);
+                    enemy.PlayHit();
+                    player.PlayCountered();
                 }
 
                 player.AddFocus();

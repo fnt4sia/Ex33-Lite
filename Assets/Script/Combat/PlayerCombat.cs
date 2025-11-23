@@ -263,7 +263,7 @@ public class PlayerCombat : MonoBehaviour
     {
         if (CurrentStance != Stance.Wind) return 0;
 
-        return Mathf.RoundToInt(enemyBaseAttack * 1.2f);
+        return Mathf.RoundToInt(enemyBaseAttack * 0.5f);
     }
 
     // ==========================
