@@ -1844,6 +1844,58 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7372812505568736436, guid: ae8a925f359538a4e9e9f06be2961785, type: 3}
+      propertyPath: audioClips.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7372812505568736436, guid: ae8a925f359538a4e9e9f06be2961785, type: 3}
+      propertyPath: audioClips.Array.data[0].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: d14307efa4faef54cb0c49be366f4107, type: 3}
+    - target: {fileID: 7372812505568736436, guid: ae8a925f359538a4e9e9f06be2961785, type: 3}
+      propertyPath: audioClips.Array.data[0].name
+      value: BackgroundMusic
+      objectReference: {fileID: 0}
+    - target: {fileID: 7372812505568736436, guid: ae8a925f359538a4e9e9f06be2961785, type: 3}
+      propertyPath: audioClips.Array.data[1].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: 8cb05b068212cdf4f896fc322a67d8d4, type: 3}
+    - target: {fileID: 7372812505568736436, guid: ae8a925f359538a4e9e9f06be2961785, type: 3}
+      propertyPath: audioClips.Array.data[1].name
+      value: ChangeStance
+      objectReference: {fileID: 0}
+    - target: {fileID: 7372812505568736436, guid: ae8a925f359538a4e9e9f06be2961785, type: 3}
+      propertyPath: audioClips.Array.data[2].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: 80ab559e7a42f0d4685faa777bb333fc, type: 3}
+    - target: {fileID: 7372812505568736436, guid: ae8a925f359538a4e9e9f06be2961785, type: 3}
+      propertyPath: audioClips.Array.data[2].name
+      value: Parry
+      objectReference: {fileID: 0}
+    - target: {fileID: 7372812505568736436, guid: ae8a925f359538a4e9e9f06be2961785, type: 3}
+      propertyPath: audioClips.Array.data[3].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: 4f2c0e876b7069046adc521521b76ba4, type: 3}
+    - target: {fileID: 7372812505568736436, guid: ae8a925f359538a4e9e9f06be2961785, type: 3}
+      propertyPath: audioClips.Array.data[3].name
+      value: Pierced
+      objectReference: {fileID: 0}
+    - target: {fileID: 7372812505568736436, guid: ae8a925f359538a4e9e9f06be2961785, type: 3}
+      propertyPath: audioClips.Array.data[4].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: f98acd3a186fe234fa26971bbf204274, type: 3}
+    - target: {fileID: 7372812505568736436, guid: ae8a925f359538a4e9e9f06be2961785, type: 3}
+      propertyPath: audioClips.Array.data[4].name
+      value: Counter
+      objectReference: {fileID: 0}
+    - target: {fileID: 7372812505568736436, guid: ae8a925f359538a4e9e9f06be2961785, type: 3}
+      propertyPath: audioClips.Array.data[5].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: 6a7d908992e358f4982184a20ecd2f75, type: 3}
+    - target: {fileID: 7372812505568736436, guid: ae8a925f359538a4e9e9f06be2961785, type: 3}
+      propertyPath: audioClips.Array.data[5].name
+      value: Hit
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

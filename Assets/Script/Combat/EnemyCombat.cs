@@ -140,24 +140,36 @@ public class EnemyCombat : MonoBehaviour
     {
         animator.Play("Parry", 0, 0f);
         SpawnFloatingText("Parried");
+
+        AudioManager.Instance.PlaySFX("Parry");
+        CameraController.Instance.Shake(0.1f, 0.2f);
     }
 
     public void PlayHit()
     {
         animator.Play("Hit", 0, 0f);
         SpawnFloatingText("Hit!");
+
+        AudioManager.Instance.PlaySFX("Hit");
+        CameraController.Instance.Shake(0.1f, 0.2f);
     }
 
     public void PlayCountered()
     {
         animator.Play("Counter");
         SpawnFloatingText("Counter!");
+
+        AudioManager.Instance.PlaySFX("Counter");
+        CameraController.Instance.Shake(0.1f, 0.2f);
     }
 
     public void PlayPierced()
     {
         animator.Play("Hit", 0, 0f);
         SpawnFloatingText("Pierced!");
+
+        AudioManager.Instance.PlaySFX("Pierced");
+        CameraController.Instance.Shake(0.1f, 0.2f);
     }
 
     public IEnumerator PlaySpecialEffect(Stance playerStance)

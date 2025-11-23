@@ -32,6 +32,7 @@ public class CombatManager : MonoBehaviour
 
     void Start()
     {
+        AudioManager.Instance.PlayMusic("BackgroundMusic");
         StartCoroutine(MainCombatLoop());
     }
 
@@ -78,6 +79,7 @@ public class CombatManager : MonoBehaviour
         {
             case PlayerAction.ChangeStance:
                 UIManager.Instance.UpdatePlayerFocus(player.Focus);
+                AudioManager.Instance.PlaySFX("ChangeStance");
                 yield return W(1f);
                 break;
 
@@ -253,6 +255,7 @@ public class CombatManager : MonoBehaviour
     {
         if (enemy.TryChangeStance())
         {
+            AudioManager.Instance.PlaySFX("ChangeStance");
             yield return StartCoroutine(enemy.PlayStanceChangeAnim(enemy.currentStance));
             yield return W(0.25f);
             enemy.PlayIdleForCurrentStance();
