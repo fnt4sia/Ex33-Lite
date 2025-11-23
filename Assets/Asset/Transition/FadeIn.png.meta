@@ -1,0 +1,753 @@
+fileFormatVersion: 2
+guid: d6c7358f6592a6440b31af99a61fecc8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4598195584876431657
+    second: FadeOut_0
+  - first:
+      213: -2819019757568010669
+    second: FadeOut_1
+  - first:
+      213: 7143026410077328098
+    second: FadeOut_2
+  - first:
+      213: -4277560657639895633
+    second: FadeOut_3
+  - first:
+      213: -7385723595710409824
+    second: FadeOut_4
+  - first:
+      213: -2997243682934491718
+    second: FadeOut_5
+  - first:
+      213: -8270245832278027306
+    second: FadeOut_6
+  - first:
+      213: -623335781024879195
+    second: FadeOut_7
+  - first:
+      213: -480633179502355867
+    second: FadeOut_8
+  - first:
+      213: 1899928841913318993
+    second: FadeOut_9
+  - first:
+      213: -9202018954237490316
+    second: FadeOut_10
+  - first:
+      213: 7250460277956189245
+    second: FadeOut_11
+  - first:
+      213: 8464293146119799880
+    second: FadeOut_12
+  - first:
+      213: -7151631522803496837
+    second: FadeOut_13
+  - first:
+      213: -8857162351079660275
+    second: FadeOut_14
+  - first:
+      213: -8727330709001274513
+    second: FadeOut_15
+  - first:
+      213: 8756734003820137106
+    second: FadeOut_16
+  - first:
+      213: 1526559935981510004
+    second: FadeOut_17
+  - first:
+      213: -8569729541155380208
+    second: FadeOut_18
+  - first:
+      213: -2676526376511614101
+    second: FadeOut_19
+  - first:
+      213: -5725046132155989608
+    second: FadeOut_20
+  - first:
+      213: 1905636389344519626
+    second: FadeOut_21
+  - first:
+      213: -5635301026397965118
+    second: FadeOut_22
+  - first:
+      213: -9094997417605238293
+    second: FadeOut_23
+  - first:
+      213: 3376391920332909664
+    second: FadeOut_24
+  - first:
+      213: -3976972979821953894
+    second: FadeOut_25
+  - first:
+      213: 7300376531444967080
+    second: FadeOut_26
+  - first:
+      213: 4016088611988283371
+    second: FadeOut_27
+  - first:
+      213: 4162369095404697013
+    second: FadeOut_28
+  - first:
+      213: 3715617467474004280
+    second: FadeOut_29
+  - first:
+      213: -8176915076102759822
+    second: FadeOut_30
+  - first:
+      213: 9008637457969947935
+    second: FadeOut_31
+  - first:
+      213: -5777690263552360757
+    second: FadeOut_32
+  - first:
+      213: -5835995715018168600
+    second: FadeOut_33
+  - first:
+      213: 3775747390305182029
+    second: FadeOut_34
+  - first:
+      213: 8290404294103726869
+    second: FadeOut_35
+  - first:
+      213: -6819261575726545114
+    second: FadeOut_36
+  - first:
+      213: -557070797654534808
+    second: FadeOut_37
+  - first:
+      213: -6370384463999838093
+    second: FadeOut_38
+  - first:
+      213: 4493226586597750973
+    second: FadeOut_39
+  - first:
+      213: -7256188619585070150
+    second: FadeOut_40
+  - first:
+      213: -6545544855063004209
+    second: FadeOut_41
+  - first:
+      213: 916268219046047059
+    second: FadeOut_42
+  - first:
+      213: -2316557209647595977
+    second: FadeOut_43
+  - first:
+      213: 7513867713938222829
+    second: FadeOut_44
+  - first:
+      213: 6779172768616423005
+    second: FadeOut_45
+  - first:
+      213: -8258879446825379090
+    second: FadeOut_46
+  - first:
+      213: 8783036259986220549
+    second: FadeOut_47
+  - first:
+      213: -5443017608049681716
+    second: FadeOut_48
+  - first:
+      213: -8445512495930816833
+    second: FadeOut_49
+  - first:
+      213: -6974193632497311999
+    second: FadeOut_50
+  - first:
+      213: 7018085975244341911
+    second: FadeOut_51
+  - first:
+      213: -2031026280784961935
+    second: FadeOut_52
+  - first:
+      213: -1467373615079577023
+    second: FadeOut_53
+  - first:
+      213: -5999585319695754003
+    second: FadeOut_54
+  - first:
+      213: 1566787934339556445
+    second: FadeOut_55
+  - first:
+      213: -3003735723206833212
+    second: FadeOut_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FadeIn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a368be07acf6a4d4888fa446a608d7ac
+      internalID: 2127972986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FadeIn_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6d948301eaa3b4abd44f3c11ce5dcb
+      internalID: -1957097067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FadeIn_2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00bad24ebce76042a2dd7155800ff27
+      internalID: 1103745223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FadeIn_3
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4897d886ee6964f8f6eb83f20b7f56
+      internalID: 1335563591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FadeIn_4
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02fcf22f0227fe4ca37f9456a7f5fd8
+      internalID: 309927706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FadeIn_5
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631134ec5bc18ad49a12763cc61a02d6
+      internalID: 967203842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FadeIn_6
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a5dfd95b28bee489936644a8c6356b
+      internalID: 742475042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FadeIn_7
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a87c3dfd9455894d9609834088ac83d
+      internalID: -1712523468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FadeIn_8
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56981c381a9f26041a0e48a6c748af99
+      internalID: 712803793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FadeIn_9
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9add942ad14c9e7428eaf2fa8230a98b
+      internalID: -841742134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FadeIn_10
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c143a27c18dd1ed44aa85bc1b3782cab
+      internalID: 154598386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FadeIn_11
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749bc8f33cf994049aeba8452cb36696
+      internalID: -1263617441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FadeIn_12
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3b274980f5b6f4d9ec0026e4c3f91a
+      internalID: 1113905685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FadeIn_13
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953194ad1a64ce1478a27cffd7b03692
+      internalID: -594389686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FadeIn_14
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bdad8f461f06347b8dc83d01d3208d
+      internalID: -497918311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FadeIn_15
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76411495778bce4087a5eba91921054
+      internalID: -280123709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FadeIn_16
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fda7b1a0b31ef48814d8ec377eb8d8
+      internalID: 686658673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FadeIn_17
+      rect:
+        serializedVersion: 2
+        x: 8160
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ea4afef298a414d9a9c34dca196d43
+      internalID: -731959569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FadeIn_18
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a450d9a9c8905d04aa07139178f4ea8f
+      internalID: -651841749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f6d6f4252aaa65a4796474de16deade1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":19.0,"y":1.0},"gridSpriteSize":{"x":480.0,"y":270.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      FadeIn_0: 2127972986
+      FadeIn_1: -1957097067
+      FadeIn_10: 154598386
+      FadeIn_11: -1263617441
+      FadeIn_12: 1113905685
+      FadeIn_13: -594389686
+      FadeIn_14: -497918311
+      FadeIn_15: -280123709
+      FadeIn_16: 686658673
+      FadeIn_17: -731959569
+      FadeIn_18: -651841749
+      FadeIn_2: 1103745223
+      FadeIn_3: 1335563591
+      FadeIn_4: 309927706
+      FadeIn_5: 967203842
+      FadeIn_6: 742475042
+      FadeIn_7: -1712523468
+      FadeIn_8: 712803793
+      FadeIn_9: -841742134
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 182160213a207414d9209ee52d436964
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 124027708394160637
+    second: FlameCombatEffect_0
+  - first:
+      213: -6176990137043854211
+    second: FlameCombatEffect_1
+  - first:
+      213: 8617349353090793099
+    second: FlameCombatEffect_2
+  - first:
+      213: 3827942156793585169
+    second: FlameCombatEffect_3
+  - first:
+      213: -8625577489490974465
+    second: FlameCombatEffect_4
+  - first:
+      213: 4911971757619710804
+    second: FlameCombatEffect_5
+  - first:
+      213: -4383661485363035698
+    second: FlameCombatEffect_6
+  - first:
+      213: 2119067011503870109
+    second: FlameCombatEffect_7
+  - first:
+      213: 7833155105884352112
+    second: FlameCombatEffect_8
+  - first:
+      213: -8720376540556922772
+    second: FlameCombatEffect_9
+  - first:
+      213: -1771320887457128247
+    second: FlameCombatEffect_10
+  - first:
+      213: 7089423668127968283
+    second: FlameCombatEffect_11
+  - first:
+      213: 7991957303851725910
+    second: FlameCombatEffect_12
+  - first:
+      213: 4592076436517325395
+    second: FlameCombatEffect_13
+  - first:
+      213: -5090543732602578810
+    second: FlameCombatEffect_14
+  - first:
+      213: 223809740342630894
+    second: FlameCombatEffect_15
+  - first:
+      213: -179907890308565033
+    second: FlameCombatEffect_16
+  - first:
+      213: 8910821276324276857
+    second: FlameCombatEffect_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlameCombatEffect_0
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 20
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1c32d2b82a8b100800000000000000
+      internalID: 124027708394160637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameCombatEffect_1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 53
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cd86c823ce64aa0800000000000000
+      internalID: -6176990137043854211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameCombatEffect_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 56
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e3b687499f69770800000000000000
+      internalID: 8617349353090793099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameCombatEffect_3
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 43
+        width: 85
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e9c6c3c159f1530800000000000000
+      internalID: 3827942156793585169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameCombatEffect_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 26
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8e84c39facb4880800000000000000
+      internalID: -8625577489490974465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameCombatEffect_5
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 14
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b8cafe944da2440800000000000000
+      internalID: 4911971757619710804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameCombatEffect_6
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 29
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1006dca1b1a23c0800000000000000
+      internalID: -4383661485363035698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameCombatEffect_7
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 12
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90dfeb3830786d10800000000000000
+      internalID: 2119067011503870109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameCombatEffect_8
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 11
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e26c42115f4bc60800000000000000
+      internalID: 7833155105884352112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameCombatEffect_9
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 32
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6074782dbffaf680800000000000000
+      internalID: -8720376540556922772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameCombatEffect_10
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 28
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c063e7a9010b67e0800000000000000
+      internalID: -1771320887457128247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameCombatEffect_11
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 28
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ca309c341b26260800000000000000
+      internalID: 7089423668127968283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameCombatEffect_12
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 29
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654bb2c13d229ee60800000000000000
+      internalID: 7991957303851725910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameCombatEffect_13
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 28
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a8e0c60355abf30800000000000000
+      internalID: 4592076436517325395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameCombatEffect_14
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 27
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688d1a03271ca59b0800000000000000
+      internalID: -5090543732602578810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameCombatEffect_15
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 28
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee91566e5c12b1300800000000000000
+      internalID: 223809740342630894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameCombatEffect_16
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 28
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d73ed91ab6d08df0800000000000000
+      internalID: -179907890308565033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameCombatEffect_17
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 18
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a2d404db899ab70800000000000000
+      internalID: 8910821276324276857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FlameCombatEffect_0: 124027708394160637
+      FlameCombatEffect_1: -6176990137043854211
+      FlameCombatEffect_10: -1771320887457128247
+      FlameCombatEffect_11: 7089423668127968283
+      FlameCombatEffect_12: 7991957303851725910
+      FlameCombatEffect_13: 4592076436517325395
+      FlameCombatEffect_14: -5090543732602578810
+      FlameCombatEffect_15: 223809740342630894
+      FlameCombatEffect_16: -179907890308565033
+      FlameCombatEffect_17: 8910821276324276857
+      FlameCombatEffect_2: 8617349353090793099
+      FlameCombatEffect_3: 3827942156793585169
+      FlameCombatEffect_4: -8625577489490974465
+      FlameCombatEffect_5: 4911971757619710804
+      FlameCombatEffect_6: -4383661485363035698
+      FlameCombatEffect_7: 2119067011503870109
+      FlameCombatEffect_8: 7833155105884352112
+      FlameCombatEffect_9: -8720376540556922772
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 1743d312d383e1f439a26a88f9736948
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2002439175057595572
+    second: IndicatorTimer_0
+  - first:
+      213: 7465625638519637330
+    second: IndicatorTimer_1
+  - first:
+      213: 8377999460797025776
+    second: IndicatorTimer_2
+  - first:
+      213: -4930806575502861704
+    second: IndicatorTimer_3
+  - first:
+      213: -8389050211516411971
+    second: IndicatorTimer_4
+  - first:
+      213: 6163744767912572578
+    second: IndicatorTimer_5
+  - first:
+      213: 1426888906089040287
+    second: IndicatorTimer_6
+  - first:
+      213: 9146257292092644185
+    second: IndicatorTimer_7
+  - first:
+      213: -4207648223812236312
+    second: IndicatorTimer_8
+  - first:
+      213: -2826769282314464349
+    second: IndicatorTimer_9
+  - first:
+      213: 2754140096243537205
+    second: IndicatorTimer_10
+  - first:
+      213: -2512086648909526894
+    second: IndicatorTimer_11
+  - first:
+      213: -3474852073464307444
+    second: IndicatorTimer_12
+  - first:
+      213: -8157172731887583824
+    second: IndicatorTimer_13
+  - first:
+      213: 5323124200895504489
+    second: IndicatorTimer_14
+  - first:
+      213: -8292230095709452430
+    second: IndicatorTimer_15
+  - first:
+      213: -7229829023589944929
+    second: IndicatorTimer_16
+  - first:
+      213: -2052492365999108942
+    second: IndicatorTimer_17
+  - first:
+      213: 9169661059007849990
+    second: IndicatorTimer_18
+  - first:
+      213: -6558593148628770673
+    second: IndicatorTimer_19
+  - first:
+      213: -4931491761064983194
+    second: IndicatorTimer_20
+  - first:
+      213: -5211224214051402920
+    second: IndicatorTimer_21
+  - first:
+      213: -2488584641264314923
+    second: IndicatorTimer_22
+  - first:
+      213: -8821179786882042595
+    second: IndicatorTimer_23
+  - first:
+      213: 5781286195044953868
+    second: IndicatorTimer_24
+  - first:
+      213: 2411301478470181930
+    second: IndicatorTimer_25
+  - first:
+      213: 6412667070790219349
+    second: IndicatorTimer_26
+  - first:
+      213: 2863584738604125114
+    second: IndicatorTimer_27
+  - first:
+      213: -4388861808875905910
+    second: IndicatorTimer_28
+  - first:
+      213: 7157404790028012214
+    second: IndicatorTimer_29
+  - first:
+      213: 7730911929430765968
+    second: IndicatorTimer_30
+  - first:
+      213: -902079835004842893
+    second: IndicatorTimer_31
+  - first:
+      213: 2773388838910007550
+    second: IndicatorTimer_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IndicatorTimer_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43ad5efd28e534e0800000000000000
+      internalID: -2002439175057595572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2550302b6fa3b9760800000000000000
+      internalID: 7465625638519637330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd883dfe12a44470800000000000000
+      internalID: 8377999460797025776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87addfa4b81429bb0800000000000000
+      internalID: -4930806575502861704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf06ab974b149b80800000000000000
+      internalID: -8389050211516411971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6f991a5350a8550800000000000000
+      internalID: 6163744767912572578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99026d66e35dc310800000000000000
+      internalID: 1426888906089040287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b12875c880eee70800000000000000
+      internalID: 9146257292092644185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb4ed7cb3e6b95c0800000000000000
+      internalID: -4207648223812236312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a319a9805c45c8d0800000000000000
+      internalID: -2826769282314464349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535914253dba83620800000000000000
+      internalID: 2754140096243537205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2980fbe9086432dd0800000000000000
+      internalID: -2512086648909526894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0161222378d6cfc0800000000000000
+      internalID: -3474852073464307444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_13
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd76507e96ebce80800000000000000
+      internalID: -8157172731887583824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_14
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96069a1f1498fd940800000000000000
+      internalID: 5323124200895504489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2774f6d79a41cec80800000000000000
+      internalID: -8292230095709452430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_16
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91bc1eeecc7aab90800000000000000
+      internalID: -7229829023589944929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_17
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc0c6451151483e0800000000000000
+      internalID: -2052492365999108942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_18
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60625e4762e214f70800000000000000
+      internalID: 9169661059007849990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_19
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80ebadb7423bf4a0800000000000000
+      internalID: -6558593148628770673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_20
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665c4f81f52df8bb0800000000000000
+      internalID: -4931491761064983194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_21
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b4d8400330ea7b0800000000000000
+      internalID: -5211224214051402920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_22
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d592ff2475c67dd0800000000000000
+      internalID: -2488584641264314923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_23
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d153a0f68bfd49580800000000000000
+      internalID: -8821179786882042595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_24
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f2680f9214b3050800000000000000
+      internalID: 5781286195044953868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_25
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24e6964be9a67120800000000000000
+      internalID: 2411301478470181930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_26
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556bb41a9be5ef850800000000000000
+      internalID: 6412667070790219349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_27
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb8ab8d52f7db720800000000000000
+      internalID: 2863584738604125114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_28
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c5ca12071a713c0800000000000000
+      internalID: -4388861808875905910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_29
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba8c472cb5345360800000000000000
+      internalID: 7157404790028012214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_30
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091fc8f8077b94b60800000000000000
+      internalID: 7730911929430765968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_31
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c4e736b2b2b73f0800000000000000
+      internalID: -902079835004842893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndicatorTimer_32
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef89347747e0d7620800000000000000
+      internalID: 2773388838910007550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IndicatorTimer_0: -2002439175057595572
+      IndicatorTimer_1: 7465625638519637330
+      IndicatorTimer_10: 2754140096243537205
+      IndicatorTimer_11: -2512086648909526894
+      IndicatorTimer_12: -3474852073464307444
+      IndicatorTimer_13: -8157172731887583824
+      IndicatorTimer_14: 5323124200895504489
+      IndicatorTimer_15: -8292230095709452430
+      IndicatorTimer_16: -7229829023589944929
+      IndicatorTimer_17: -2052492365999108942
+      IndicatorTimer_18: 9169661059007849990
+      IndicatorTimer_19: -6558593148628770673
+      IndicatorTimer_2: 8377999460797025776
+      IndicatorTimer_20: -4931491761064983194
+      IndicatorTimer_21: -5211224214051402920
+      IndicatorTimer_22: -2488584641264314923
+      IndicatorTimer_23: -8821179786882042595
+      IndicatorTimer_24: 5781286195044953868
+      IndicatorTimer_25: 2411301478470181930
+      IndicatorTimer_26: 6412667070790219349
+      IndicatorTimer_27: 2863584738604125114
+      IndicatorTimer_28: -4388861808875905910
+      IndicatorTimer_29: 7157404790028012214
+      IndicatorTimer_3: -4930806575502861704
+      IndicatorTimer_30: 7730911929430765968
+      IndicatorTimer_31: -902079835004842893
+      IndicatorTimer_32: 2773388838910007550
+      IndicatorTimer_4: -8389050211516411971
+      IndicatorTimer_5: 6163744767912572578
+      IndicatorTimer_6: 1426888906089040287
+      IndicatorTimer_7: 9146257292092644185
+      IndicatorTimer_8: -4207648223812236312
+      IndicatorTimer_9: -2826769282314464349
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
